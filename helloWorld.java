@@ -7,6 +7,7 @@ public class helloWorld{
 		System.out.println("new line added remotely");
 		System.out.println("local 5th line  added remotely");
 		System.out.println("local 6th line  added remotely");
+		System.out.println("local 7th line  added localy amended 2");
 	}
 
 }
