@@ -1,0 +1,12 @@
+ 147  mkdir gpractice1
+  148  cd gpractice1/
+  149  git status
+  150  clear
+  151  git init
+  157  ls -la
+  159  git add -A
+  160  git commit -m "Helloworld java program"
+  161  git log
+  162  git diff
+  163  git remote add origin https://github.com/indsundar/gpractice1.git
+  164  git push -u origin master
